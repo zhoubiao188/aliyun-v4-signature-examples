@@ -6,7 +6,7 @@
 
 | 篇目 | 语言 | 主题 | 工程目录 | 文章链接 |
 | --- | --- | --- | --- | --- |
-| 1 | Python | 手写 OSS PutObject V4 签名（OSS4-HMAC-SHA256） | `python-oss-putobject-v4/` | 待发布后补充 |
+| 1 | Python | 手写 OSS PutObject V4 签名（OSS4-HMAC-SHA256） | [python-oss-putobject-v4/](python-oss-putobject-v4/) | 待发布后补充 |
 | 2 | Java | 手写 OpenAPI V4 签名（ACS3-HMAC-SHA256）调用 ECS | `java-openapi-acs3/` | 待发布后补充 |
 | 3 | C++ | 手写 OSS PutObject V4 签名（CMake + OpenSSL） | `cpp-oss-putobject-v4/` | 待发布后补充 |
 
